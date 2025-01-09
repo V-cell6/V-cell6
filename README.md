@@ -1,4 +1,4 @@
-##About Me!
+-About Me!
 -👋 Hey there, curious mind! I'm on a mission to unravel the intricacies of Agentic AI, LLMs, MLOps, basically all things Data Science. 
 -🔍 Currently, I'm diving deep into the inner workings of transformers—because understanding their magic is half the fun! If you’re as fascinated by AI as I am, let’s build something extraordinary together.
 
